@@ -1,1 +1,1 @@
-# COVID19-Map
+# coronamap
