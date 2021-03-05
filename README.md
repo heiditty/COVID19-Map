@@ -1,1 +1,4 @@
-# coronamap
+# 코로나 지도
+## 주요기능
+### 내가 사는 지역 코로나 발생현황과 위치
+![스크린샷 2021-03-05 오후 11 01 46](https://user-images.githubusercontent.com/28801367/110125955-41dff800-7e07-11eb-9327-384da135f32c.png)
